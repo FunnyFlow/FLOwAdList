@@ -1,7 +1,7 @@
 # FLOwAdList
 My Pi-hole adlist collection
 
-My first reposetory is a Blocklist for Pi-hole and cotains URL's that not blockt in ather blocklistlists.
+My first reposetory is a Blocklist for Pi-hole and cotains URL's that not blockt in ather blocklistlists from https://github.com/RPiList .
 
 I found it with the Folling Blocking-Benchmark.
 
